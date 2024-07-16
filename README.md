@@ -29,21 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-packyanathan&show_icons=true&locale=en&layout=compact" alt="kirushanth-packyanathan" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirushanth-packyanathan&show_icons=true&locale=en" alt="kirushanth-packyanathan" /></p> -->
 
-<style>
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-
-.wave {
-  display: inline-block;
-  animation: wave-animation 2.5s infinite;
-  transform-origin: 70% 70%;
-}
-</style>
