@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kirushanth Packyanathan</h1>
+<h1 align="center">
+  <span class="wave">Hi 👋,</span> I'm Kirushanth Packyanathan
+</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 <p align="center">
   <a href="https://medium.com/@kirushan06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -27,3 +29,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-packyanathan&show_icons=true&locale=en&layout=compact" alt="kirushanth-packyanathan" /></p>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirushanth-packyanathan&show_icons=true&locale=en" alt="kirushanth-packyanathan" /></p> -->
 
+<style>
+@keyframes wave-animation {
+  0% { transform: rotate(0deg); }
+  10% { transform: rotate(14deg); }
+  20% { transform: rotate(-8deg); }
+  30% { transform: rotate(14deg); }
+  40% { transform: rotate(-4deg); }
+  50% { transform: rotate(10deg); }
+  60% { transform: rotate(0deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.wave {
+  display: inline-block;
+  animation: wave-animation 2.5s infinite;
+  transform-origin: 70% 70%;
+}
+</style>
