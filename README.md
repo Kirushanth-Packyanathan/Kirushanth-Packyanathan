@@ -35,6 +35,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-packyanathan&show_icons=true&locale=en&layout=compact" alt="kirushanth-packyanathan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirushanth-packyanathan&show_icons=true&locale=en" alt="kirushanth-packyanathan" /></p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirushanth-packyanathan&theme=onedark" alt="Trophies" />
-</p>
+
