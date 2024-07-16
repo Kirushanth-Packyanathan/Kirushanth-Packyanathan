@@ -26,7 +26,7 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 </p>
-<p><img align="center" width="14000" height=190" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-packyanathan&show_icons=true&locale=en&layout=compact" alt="kirushanth-packyanathan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-packyanathan&show_icons=true&locale=en&layout=compact" alt="kirushanth-packyanathan" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirushanth-packyanathan&show_icons=true&locale=en" alt="kirushanth-packyanathan" /></p> -->
 
