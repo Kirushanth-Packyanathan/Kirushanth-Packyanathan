@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirushanth-packyanathan&label=Profile%20views&color=0e75b6&style=flat" alt="kirushanth-packyanathan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirushanth-packyanathan" alt="kirushanth-packyanathan" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@kirushan06](https://medium.com/@kirushan06)
 
 - 📫 How to reach me **kirushan06@gmail.com**
@@ -22,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirushanth-packyanathan&show_icons=true&locale=en&layout=compact" alt="kirushanth-packyanathan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirushanth-packyanathan&show_icons=true&locale=en" alt="kirushanth-packyanathan" /></p>
-
